@@ -2,7 +2,7 @@
 
 Redeban Payment Android SDK is a library that allows developers to easily connect to the Redeban CREDITCARDS API
 
-![Example](https://github.com/paymentez/redeban-clickpay-android/blob/develop-globalpay-redeban/img/global_pay1.jpg)
+![Example](https://cdn.globalpay.com.co/documentacion/img/global_pay1.jpg)
 
 
 ## Installation
@@ -245,7 +245,7 @@ Important Note: if you only have one APP_CODE, please asume that it's your `REDE
 El SDK Android de pagos Redeban es una biblioteca que permite a los desarrolladores conectarse fácilmente al API de tarjetas de Crédito de Redeban.
 
 
-![Example](https://github.com/paymentez/redeban-clickpay-android/blob/develop-globalpay-redeban/img/global_pay1.jpg)
+![Example](https://cdn.globalpay.com.co/documentacion/img/global_pay1.jpg)
 
 
 ## Instalación
